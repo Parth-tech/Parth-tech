@@ -8,7 +8,7 @@
 - An aspiring backend developer, who loves Google Cloud Platform
 - I like working on web and mobile applications
 - I have experience with Natural Language Processing, Image Processing, Audio Processing and trainign deep learning models
-- I am open to an internship as well as a full time opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I am open to an internship as well as a full time opportunity
 - I am more than happy to connect and collaborate!
 
 <br><br>
