@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- An aspiring backend developer, who loves ![Google Cloud Platform](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+- An aspiring backend developer, who loves Google Cloud Platform
 - I like working on web and mobile applications
 - I have experience with Natural Language Processing, Image Processing, Audio Processing and trainign deep learning models
 - I am open to an internship as well as a full time opportunity
