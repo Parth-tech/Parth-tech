@@ -21,8 +21,9 @@
 - **Languages**:
 
   ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![Java](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=flat)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
 
 <br>   
     
